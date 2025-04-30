@@ -2,6 +2,14 @@
 
 This **Digital Marketing Website** is a **fully responsive** and **interactive** website built using **HTML, CSS, and JavaScript**. Designed to showcase digital marketing services, it includes engaging UI elements, smooth animations, and a modern layout for an excellent user experience.  
 
+---
+
+## 🖼️ Live Demo
+
+👉 [View Website](https://ashukhadela05.github.io/Unique_Store_Clothes-/)
+
+---
+
 ## ✨ Features  
 **Modern and Clean UI**  
 **Fully Responsive Design (Mobile-Friendly)**  
