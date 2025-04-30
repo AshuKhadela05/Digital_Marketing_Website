@@ -6,7 +6,7 @@ This **Digital Marketing Website** is a **fully responsive** and **interactive**
 
 ## 🖼️ Live Demo
 
-👉 [View Website](https://ashukhadela05.github.io/Unique_Store_Clothes-/)
+👉 [View Website](https://ashukhadela05.github.io/Digital_Marketing_Website/)
 
 ---
 
